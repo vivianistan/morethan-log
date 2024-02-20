@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Vivian",
-    image: "/memoji.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/memoji.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Vivian's Blog (2024-2025)",
-    bio: "I'm still learning",
+    bio: "I'm still learning!",
     email: "vivianyftan@gmail.com",
     linkedin: "vivianytan",
     github: "vivianistan",
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "the v-log",
-    description: "welcome to the v-log!",
+    description: "welcome to the vivian's log!",
     theme: "auto",
   },
 
